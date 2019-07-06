@@ -1,0 +1,4 @@
+﻿  zamianaMiejscami.cpp
+g:\programowanie\c++\laboratorium 4\zamianamiejscami\zamianamiejscami\zamianamiejscami.cpp(10): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+g:\programowanie\c++\laboratorium 4\zamianamiejscami\zamianamiejscami\zamianamiejscami.cpp(24): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  zamianaMiejscami.vcxproj -> G:\PROGRAMOWANIE\C++\Laboratorium 4\zamianaMiejscami\Debug\zamianaMiejscami.exe
